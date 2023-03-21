@@ -1,6 +1,6 @@
 ### Java exercise
 
-This repository is an study on Java. To show my studies I make this multiplication table that asks for an number and the print the results of its multiplication from 1 to 10.
+This repository is an study on Java. To show my studies I make this multiplication table that asks for an number and then print the results of its multiplication from 1 to 10.
 
 ## Getting Started
 
