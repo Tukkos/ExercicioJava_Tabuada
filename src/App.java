@@ -9,7 +9,7 @@ public class App {
         System.out.println("Informe um número: ");
         int numero = ler.nextInt();
 
-        System.out.println("Tabela de multiplicação de X");
+        System.out.println("Tabela de multiplicação de " + numero);
         while (i < numeroUmAoDez.length) {
             System.out.println(numero + " x " + numeroUmAoDez[i] + " = " + (numeroUmAoDez[i] * numero));
             i++;
